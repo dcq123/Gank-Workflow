@@ -10,25 +10,25 @@
 
 #### 效果图
 
-![QQ20170405-170418](http://onxvhxvw6.bkt.clouddn.com/image/gankworkflow/QQ20170405-170418.png)
+![QQ20170405-170418](http://onxvhxvw6.bkt.clouddn.com/image/gankworkflow/QQ20170405-170418.png?imageView2/0/format/webp/q/75|imageslim)
 
 ##### 每日干货数据
 
-![QQ20170405-173936](http://onxvhxvw6.bkt.clouddn.com/image/gankworkflow/QQ20170405-173936.png)
+![QQ20170405-173936](http://onxvhxvw6.bkt.clouddn.com/image/gankworkflow/QQ20170405-173936.png?imageView2/0/format/webp/q/75|imageslim)
 
 ##### 关键字匹配搜索
 
-![QQ20170405-173959](http://onxvhxvw6.bkt.clouddn.com/image/gankworkflow/QQ20170405-174018.png)
+![QQ20170405-173959](http://onxvhxvw6.bkt.clouddn.com/image/gankworkflow/QQ20170405-174018.png?imageView2/0/format/webp/q/75|imageslim)
 
 ##### 指定类型的数据
 
-![QQ20170405-174018](http://onxvhxvw6.bkt.clouddn.com/image/gankworkflow/QQ20170405-173959.png)
+![QQ20170405-174018](http://onxvhxvw6.bkt.clouddn.com/image/gankworkflow/QQ20170405-173959.png?imageView2/0/format/webp/q/75|imageslim)
 
 
 
 ###### 操作演示图
 
-![操作演示图](http://onxvhxvw6.bkt.clouddn.com/image/gankworkflow/QQ20170405-215925-HD.gif)
+[查看操作演示图](http://onxvhxvw6.bkt.clouddn.com/image/gankworkflow/QQ20170405-215925-HD.gif)
 
 具体操作快捷键自己按习惯设置即可。
 
@@ -53,5 +53,5 @@
 
 查询【收藏数据】与之对应，使用`gl`命令。
 
-**PS:收藏记录的快捷键`command+enter` **
+**PS:收藏记录的快捷键`command+enter`**
 
