@@ -12,19 +12,19 @@
 
 #### 效果图
 
-![QQ20170405-170418](http://onxvhxvw6.bkt.clouddn.com/image/gankworkflow/QQ20170405-170418.png?imageView2/1/w/400/h/300/q/75|imageslim)
+![QQ20170405-170418](http://onxvhxvw6.bkt.clouddn.com/image/gankworkflow/QQ20170405-170418.png?imageView2/0/format/jpg/q/75|imageslim)
 
 ##### 每日干货数据
 
-![QQ20170405-173936](http://onxvhxvw6.bkt.clouddn.com/image/gankworkflow/QQ20170405-173936.png?imageView2/0/q/75|imageslim)
+![QQ20170405-173936](http://onxvhxvw6.bkt.clouddn.com/image/gankworkflow/QQ20170405-173936.png?imageView2/1/w/500/h/400/format/jpg/q/75|imageslim)
 
 ##### 关键字匹配搜索
 
-![QQ20170405-173959](http://onxvhxvw6.bkt.clouddn.com/image/gankworkflow/QQ20170405-174018.png?imageView2/1/w/400/h/300/q/75|imageslim)
+![QQ20170405-173959](http://onxvhxvw6.bkt.clouddn.com/image/gankworkflow/QQ20170405-174018.png?imageView2/1/w/500/h/400/format/jpg/q/75|imageslim)
 
 ##### 指定类型的数据
 
-![QQ20170405-174018](http://onxvhxvw6.bkt.clouddn.com/image/gankworkflow/QQ20170405-173959.png?imageView2/1/w/400/h/300/q/75|imageslim)
+![QQ20170405-174018](http://onxvhxvw6.bkt.clouddn.com/image/gankworkflow/QQ20170405-173959.png?imageView2/1/w/500/h/400/format/jpg/q/75|imageslim)
 
 
 
