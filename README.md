@@ -10,25 +10,25 @@
 
 #### 效果图
 
-![QQ20170405-170418](image/QQ20170405-170418.png)
+![QQ20170405-170418](http://onxvhxvw6.bkt.clouddn.com/image/gankworkflow/QQ20170405-170418.png)
 
 ##### 每日干货数据
 
-![QQ20170405-173936](image/QQ20170405-173936.png)
+![QQ20170405-173936](http://onxvhxvw6.bkt.clouddn.com/image/gankworkflow/QQ20170405-173936.png)
 
 ##### 关键字匹配搜索
 
-![QQ20170405-173959](image/QQ20170405-173959.png)
+![QQ20170405-173959](http://onxvhxvw6.bkt.clouddn.com/image/gankworkflow/QQ20170405-174018.png)
 
 ##### 指定类型的数据
 
-![QQ20170405-174018](image/QQ20170405-174018.png)
+![QQ20170405-174018](http://onxvhxvw6.bkt.clouddn.com/image/gankworkflow/QQ20170405-173959.png)
 
 
 
-操作演示图：
+###### 操作演示图
 
-
+![操作演示图](http://onxvhxvw6.bkt.clouddn.com/image/gankworkflow/QQ20170405-215925-HD.gif)
 
 具体操作快捷键自己按习惯设置即可。
 
@@ -51,5 +51,7 @@
 | `gk front`   | `前端`对应的前15条数据      |
 | `gk other`   | `瞎推荐`对应的前15条数据     |
 
-查询【收藏数据】与之对应，使用`gl`命令
+查询【收藏数据】与之对应，使用`gl`命令。
+
+**PS:收藏记录的快捷键`command+enter` **
 
