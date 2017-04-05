@@ -78,7 +78,6 @@ def main(wf):
             wf.send_feedback()
             return 0
 
-    # query = "android "
     if query:
         query = query.strip()
         t = change_type(query)

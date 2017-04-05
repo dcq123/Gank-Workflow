@@ -361,23 +361,23 @@ sys.stdout.write(query)</string>
 		<key>2DBEC022-FA5E-4518-A4CA-BE1502994C92</key>
 		<dict>
 			<key>xpos</key>
-			<integer>170</integer>
+			<integer>150</integer>
 			<key>ypos</key>
-			<integer>420</integer>
+			<integer>300</integer>
 		</dict>
 		<key>4B6EA3B8-4914-4ECF-86F4-9C5F6908CF3D</key>
 		<dict>
 			<key>xpos</key>
-			<integer>50</integer>
+			<integer>20</integer>
 			<key>ypos</key>
-			<integer>610</integer>
+			<integer>450</integer>
 		</dict>
 		<key>5D23E2BC-781C-4F24-A75E-E7747D2724CB</key>
 		<dict>
 			<key>xpos</key>
-			<integer>270</integer>
+			<integer>200</integer>
 			<key>ypos</key>
-			<integer>610</integer>
+			<integer>450</integer>
 		</dict>
 		<key>81991E65-8AF1-4322-80C5-BEA36C712878</key>
 		<dict>
@@ -403,9 +403,9 @@ sys.stdout.write(query)</string>
 		<key>A5C8B59B-30BD-471E-AE41-F38F16F4BDE0</key>
 		<dict>
 			<key>xpos</key>
-			<integer>640</integer>
+			<integer>400</integer>
 			<key>ypos</key>
-			<integer>440</integer>
+			<integer>400</integer>
 		</dict>
 		<key>C922E4EA-2211-474F-870B-96183C677516</key>
 		<dict>
