@@ -1,6 +1,8 @@
 ### 干货集中营 workflow
 
 > 使用`python`编写的`Alfred workflow`，接入的是干货集中营对应的API接口。以后可以直接用小红帽查看干货喽~，而且还能一键收藏到`MarkDown`哦 :)
+>
+> 下载`Gank.alfredworkflow`直接点击安装即可。
 
 提供了以下功能：
 
@@ -28,7 +30,7 @@
 
 ###### 操作演示图
 
-[查看操作演示图](http://onxvhxvw6.bkt.clouddn.com/image/gankworkflow/QQ20170405-215925-HD.gif)
+[动态git图片过大，点击链接查看操作演示图](http://onxvhxvw6.bkt.clouddn.com/image/gankworkflow/QQ20170405-215925-HD.gif)
 
 具体操作快捷键自己按习惯设置即可。
 
