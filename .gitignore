@@ -96,3 +96,5 @@ ENV/
 .ropeproject
 
 /collect/
+/.idea
+.idea/
