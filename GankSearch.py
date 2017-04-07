@@ -20,8 +20,8 @@ TYPE_URL = "http://gank.io/api/data/{type}/15/1"
 # 按照关键字搜索
 SEARCH_URL = "http://gank.io/api/search/query/{key}/category/all/count/15/page/1"
 
-TYPE_ANDROID = "Android"
-TYPE_IOS = "IOS"
+TYPE_ANDROID = u"Android"
+TYPE_IOS = u"iOS"
 TYPE_VIDEO = u"休息视频"
 TYPE_OTHER = u"拓展资源"
 TYPE_FULI = u"福利"
@@ -155,6 +155,9 @@ def parse_data(js):
         rs = js['results']
         if len(rs) == 0:
             return False
+        if TYPE_FULI in rs:
+            for item in rs[TYPE_FULI]:
+                add_item(item)
         if TYPE_ANDROID in rs:
             for item in rs[TYPE_ANDROID]:
                 add_item(item)
@@ -167,10 +170,6 @@ def parse_data(js):
         if TYPE_OTHER in rs:
             for item in rs[TYPE_OTHER]:
                 add_item(item)
-        if TYPE_FULI in rs:
-            for item in rs[TYPE_FULI]:
-                add_item(item)
-
         return True
     else:
         return False
